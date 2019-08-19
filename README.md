@@ -2,7 +2,7 @@ model
 ====
 
 ### Download Demo Video
-![Demo](Small%20Demo.mov?raw=true)
+![Predator Prey, Rock Paper Scissors, and Fire Spreading Demo](Small%20Demo.mov?raw=true)
 
 This project implements a cellular automata simulator.
 
