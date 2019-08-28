@@ -1,4 +1,4 @@
-model
+Cell Simulation
 ====
 
 ### Download Demo Video
