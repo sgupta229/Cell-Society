@@ -84,8 +84,3 @@ Extra credit:
 The simulations are generic and work for all shapes. Implementing new simulations setups is pretty easy. 
 You need to make the CSV file with the desired grid (shape, size, neighbor policy, edge policy, etc.) then 
 add a button that maps to that CSV file in the SceneMaker class.
-
-### Impressions
-
-This project was fun and a great learning experience. The project ended up being easier than expected.
-I would've preferred to use XML files than a config file.
